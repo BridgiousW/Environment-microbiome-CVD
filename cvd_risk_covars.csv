@@ -1,0 +1,210 @@
+,slabno,setting,age,sex,bmi,occpcat2,exc4,smok,alcoh,infection,insulin,BP_Dia,Chol_T,Chol_L,glucose,BP_Sys
+LS6651,LS6651,Rural,31,male,26.55186,Category 2,Not active,No,0,Positive,3.72,84,4.99,3.24,4.52,121
+LS8700,LS8700,Rural,42,male,20.91135,Category 3,Not active,No,Yes,Positive,8.22,72.5,4.19,2.53,5.6,103
+LS8710,LS8710,Rural,19,male,22.52859,Category 2,Very active,No,0,Positive,4.41,70.5,3.41,2.2,4,120
+LS8729,LS8729,Rural,60,male,21.35779,Category 2,A bit active,No,Yes,Negative,2.93,71.5,4.93,3.12,4.65,119
+LS8751,LS8751,Rural,32,male,23.42209,Category 2,Not active,No,0,Positive,3.44,60.5,3.46,2.19,4.46,120
+USS0102,USS0102,Urban,39,female,21.77795,Category 1,Not active,No,0,Negative,1.39,74.5,4.84,3.44,3.93,112
+USS0108,USS0108,Urban,35,female,23.39369,Category 1,Not active,No,Yes,Positive,5.9,103,6.59,3.96,3.97,130.5
+USS0119,USS0119,Urban,65,female,28.59524,Category 1,Not active,No,0,Negative,7.62,68,5.82,4.01,5.21,109
+USS0154,USS0154,Urban,18,female,24.52435,Category 1,Not active,No,0,Negative,7.36,63.5,3.43,1.45,4.14,112
+LS6645,LS6645,Rural,44,male,20.70153,Category 2,A bit active,Yes,Yes,Negative,0.274,83.5,4.59,2.24,4.21,116
+USS0164,USS0164,Urban,26,female,28.04038,Category 1,Not active,No,0,Negative,6.85,68.5,4.02,2.34,3.59,110.5
+USS0171,USS0171,Urban,49,male,23.88039,Category 1,A bit active,Yes,Yes,Positive,2.7,84,5.21,3.15,4.64,129
+USS0215,USS0215,Urban,14,female,22.04444,Category 1,Not active,No,0,Positive,9.83,71,4.44,2.72,4.27,103
+USS0217,USS0217,Urban,45,female,29.30971,Category 3,Not active,No,0,Positive,23.58,65.5,5.13,3.02,6,94.5
+USS0221,USS0221,Urban,35,male,21.56571,Category 1,A bit active,No,0,Positive,28.08,93,6.43,4.26,3.87,134
+USS0233,USS0233,Urban,36,female,15.64014,Category 1,Not active,No,0,Positive,6.48,77,5.4,3.74,3.95,106
+USS0239,USS0239,Urban,46,male,24.97027,Category 3,A bit active,No,Yes,Positive,8.89,81.5,3.03,1.59,4.5,123
+USS0306,USS0306,Urban,32,female,25.86451,Category 1,Not active,No,0,Negative,5.81,71,2.31,1.11,4.18,109
+USS0326,USS0326,Urban,33,male,25.0505,Category 2,A bit active,No,Yes,Negative,5.37,86.5,5.31,3.86,4.06,130.5
+USS0351,USS0351,Urban,45,female,46.93482,Category 3,Very active,No,Yes,Positive,6.66,75,6.02,3.89,4.14,110
+LS6695,LS6695,Rural,21,male,21.44215,Category 2,A bit active,No,0,Negative,4.61,77.5,3.89,2.51,4.52,113.5
+USS0363,USS0363,Urban,34,male,21.25029,Category 3,Not active,No,0,Positive,3.6,94.5,6.56,4.38,4.2,139
+USS0413,USS0413,Urban,28,male,22.11901,Category 1,Very active,No,Yes,Positive,21.64,74,6.4,4.29,4.3,116.5
+USS0433,USS0433,Urban,68,female,27.21088,Category 1,Not active,No,0,Negative,6.78,70.5,5.67,3.8,4.3,165
+USS0449,USS0449,Urban,35,female,24.03403,Category 3,Not active,No,0,Positive,13.05,96.5,4.07,2.84,4.4,147.5
+USS0460,USS0460,Urban,30,female,25.92492,Category 3,Not active,No,0,Negative,12.44,92,4.35,3.18,4.5,129
+USS0464,USS0464,Urban,36,male,18.70748,Category 3,Not active,No,0,Positive,2.04,79,3.91,2.72,4.6,131
+USS0467,USS0467,Urban,40,male,26.41893,Category 3,Not active,No,Yes,Positive,29.69,77,5.25,3.64,6.2,126
+USS0470,USS0470,Urban,10,female,18.91253,Category 1,Not active,No,0,Positive,12.3,54.5,5.83,3.8,4.46,103.5
+USS0486,USS0486,Urban,12,male,17.31136,Category 1,Not active,No,0,Positive,3.91,68,2.37,1.09,5.03,109.5
+USS0501,USS0501,Urban,18,male,22.00692,Category 3,Not active,No,0,Positive,5.71,78,4.88,2.9,3.97,127
+LS6776,LS6776,Rural,34,male,21.67482,Category 2,A bit active,No,Yes,Negative,27.51,79.5,3.21,1.81,6.3,119.5
+USS0516,USS0516,Urban,24,male,28.16609,Category 1,Not active,No,0,Positive,4.9,70,4.1,2.89,3.98,126
+USS0517,USS0517,Urban,40,female,27.42187,Category 3,Not active,Yes,Yes,Positive,10.31,82.5,6.04,3.68,5.19,116
+USS0522,USS0522,Urban,25,female,32.53333,Category 1,Very active,No,0,Positive,18.03,78,6.43,4.89,4.9,108
+USS0552,USS0552,Urban,37,male,23.17946,Category 3,Not active,No,0,Positive,4.71,84.5,3.43,1.68,4.3,122
+USS0553,USS0553,Urban,24,female,20.07734,Category 1,Not active,No,0,Negative,5.64,57.5,3.22,1.83,4.6,110.5
+USS0570,USS0570,Urban,33,female,26.19772,Category 1,Not active,No,0,Negative,14.52,73,4.59,2.99,4.8,102.5
+USS0575,USS0575,Urban,25,male,20.3094,Category 3,Not active,No,0,Positive,2.18,77,3.12,1.98,4.6,108.5
+USS0577,USS0577,Urban,20,male,19.34524,Category 3,Not active,No,0,Positive,4.51,88,3.75,1.75,4.3,147.5
+USS0590,USS0590,Urban,22,male,20.07734,Category 3,Not active,No,Yes,Positive,2.24,79,3.34,1.94,4.5,124
+USS0595,USS0595,Urban,12,female,22.64426,Category 1,Not active,No,0,Negative,13.12,65,4.17,2.56,5.2,114.5
+LS6810,LS6810,Rural,45,female,19.47715,Category 2,A bit active,No,0,Negative,4.53,71.5,7.39,5.59,4.76,108.5
+USS0599,USS0599,Urban,52,female,27.65008,Category 1,Not active,No,0,Positive,8.29,72.5,2.88,1.9,5.6,139
+USS0606,USS0606,Urban,13,male,15.61225,Category 1,Very active,No,0,Negative,14.48,51.5,3.78,2.25,3.6,115
+USS0610,USS0610,Urban,20,male,20.58753,Category 1,Not active,No,0,Negative,19.13,72,3.86,2.15,4.6,111
+USS0614,USS0614,Urban,23,female,28.10684,Category 1,Not active,No,0,Negative,7.58,66,3.48,2.01,4.08,84.5
+USS0620,USS0620,Urban,12,male,15.71598,Category 1,Not active,No,0,Negative,19.55,72.5,3.58,2.33,6.16,116.5
+USS0634,USS0634,Urban,15,male,16.84609,Category 1,Not active,No,0,Positive,14.18,64.5,5.36,2.87,4.85,116.5
+USS0659,USS0659,Urban,37,male,28.39829,Category 2,Not active,No,Yes,Positive,6.01,85,4.94,3.5,5,134
+USS0664,USS0664,Urban,24,male,22.53401,Category 3,Not active,Yes,Yes,Positive,6.75,80.5,3.72,2,4,126.5
+USS0665,USS0665,Urban,21,male,19.56353,Category 3,A bit active,No,0,Positive,6.91,80,4.42,2.71,5,119.5
+USS0677,USS0677,Urban,16,female,25.46804,Category 1,Not active,No,0,Positive,8.15,65.5,3.4,1.62,4.69,106
+LS6812,LS6812,Rural,30,female,38.97239,Category 3,Very active,No,Yes,Negative,23.86,81,6.81,4.8,6.08,108.5
+USS0679,USS0679,Urban,10,male,13.70016,Category 1,Not active,No,0,Negative,3.98,66,4.15,2.22,4.28,110
+USS0685,USS0685,Urban,18,female,21.89386,Category 3,Not active,No,0,Positive,9.38,67.5,3.35,1.7,4.46,112.5
+USS0687,USS0687,Urban,64,female,32.16071,Category 3,Not active,No,Yes,Negative,11.97,85,5.91,4.31,4.83,121.5
+USS0710,USS0710,Urban,13,male,24.50894,Category 1,A bit active,No,0,Negative,26.26,75,4.97,2.79,4.9,116
+USS0745,USS0745,Urban,17,female,18.75,Category 1,Not active,No,0,Negative,2.73,68.5,3.79,2.14,4.41,108
+USS0810,USS0810,Urban,26,female,18.44065,Category 1,Not active,No,Yes,Positive,13.28,79,3.91,0.67,4.81,103
+USS0819,USS0819,Urban,14,male,16.83113,Category 1,Not active,No,0,Negative,6.47,72.5,3.22,2.03,3.95,102
+USS0836,USS0836,Urban,11,female,22.51808,Category 1,A bit active,No,0,Positive,8.53,68,3.35,2.09,4.95,101
+USS0843,USS0843,Urban,23,female,19.86446,Category 3,Not active,No,0,Negative,9.23,83,4.79,2.76,4.2,116.5
+USS0863,USS0863,Urban,18,female,19.48052,Category 1,Not active,No,0,Positive,7.68,65,4.53,2.77,3.91,95.5
+LS6829,LS6829,Rural,25,female,20.64328,Category 2,A bit active,No,Yes,Negative,10.2,68,3.85,2.42,6.01,99.5
+USS0890,USS0890,Urban,45,female,22.42215,Category 3,Not active,No,0,Negative,3.58,73.5,4.53,2.84,5.11,88.5
+USS0948,USS0948,Urban,23,female,29.72108,Category 1,Not active,No,0,Negative,17.51,71,5.15,1.03,4.97,111
+USS0960,USS0960,Urban,56,female,28.60118,Category 1,Not active,No,Yes,Negative,10.58,88,5.52,2.02,5.8,133.5
+USS0967,USS0967,Urban,27,female,28.30679,Category 3,Not active,No,0,Negative,14.23,85.5,3.52,2.21,3.65,127
+USS0979,USS0979,Urban,46,male,20.92664,Category 1,Not active,No,0,Positive,7.46,71.5,4.08,2.17,5.1,115.5
+USS1005,USS1005,Urban,15,female,19.30881,Category 1,Not active,No,0,Negative,4.73,57.5,4.41,2.33,4.23,103.5
+USS1032,USS1032,Urban,44,male,27.63243,Category 1,Not active,No,0,Positive,8.93,76.5,3.84,2.56,5.89,118.5
+USS1037,USS1037,Urban,37,male,28.72679,Category 3,Not active,No,0,Negative,10.25,75.5,6.83,5.05,4.63,115.5
+USS1040,USS1040,Urban,19,female,25.78125,Category 1,Very active,No,0,Negative,3.22,79,2.32,1.14,4.19,108.5
+USS1045,USS1045,Urban,48,male,20.10452,Category 1,Not active,No,Yes,Positive,3.56,72,4.02,2.56,3.96,112.5
+LS6928,LS6928,Rural,36,male,28.7062,Category 2,A bit active,Yes,0,Positive,10.52,106,3.74,2.63,5.6,143.5
+USS1085,USS1085,Urban,34,female,25.66901,Category 3,Not active,No,0,Negative,1.96,85.5,6.06,3.81,4.34,114
+USS1117,USS1117,Urban,37,female,32.04615,Category 1,Not active,No,0,Negative,15.66,66.5,6.49,4.22,4.06,93
+USS1118,USS1118,Urban,16,female,24.45312,Category 3,Not active,No,0,Positive,13.65,65.5,4.24,3.02,5.34,115.5
+USS1158,USS1158,Urban,31,female,25.97012,Category 1,Not active,No,0,Negative,6.73,83,5.03,3.45,4.35,118
+USS1176,USS1176,Urban,12,male,17.40916,Category 1,Not active,No,0,Positive,12.27,64.5,3.68,1.91,4.87,106
+USS1202,USS1202,Urban,19,male,20.0101,Category 1,Not active,No,0,Positive,11.39,75.5,3.77,2.53,4.12,119
+USS1232,USS1232,Urban,50,male,22.4,Category 1,Not active,No,Yes,Negative,1.08,96.5,5.05,3.45,4.6,131.5
+USS1243,USS1243,Urban,15,male,19.63568,Category 1,Not active,No,0,Positive,11,74.5,3.89,2.43,4.59,123.5
+LS7059,LS7059,Rural,30,male,22.25895,Category 2,Not active,Yes,0,Positive,4.76,66.5,3.82,2.47,5.19,106
+LS7013,LS7013,Rural,39,male,18.25784,Category 2,A bit active,No,Yes,Negative,0.2,75,3.49,1.78,5.38,106.5
+LS6893,LS6893,Rural,30,male,21.99612,Category 2,A bit active,No,0,Positive,10.67,85.5,3.76,2.27,4.61,117.5
+LS6854,LS6854,Rural,24,female,21.44042,Category 2,Not active,No,Yes,Positive,10.55,74,2.95,1.82,4.36,99
+LS6718,LS6718,Rural,35,male,20.56881,Category 2,A bit active,No,Yes,Negative,2.97,82.5,4.15,2.46,5.21,116
+LS7082,LS7082,Rural,12,female,18.37168,Category 1,,,,Negative,8.47,60.5,3.62,2.62,4.72,90
+LS6945,LS6945,Rural,34,male,24.32642,Category 2,Very active,Yes,0,Positive,5.7,66,3.37,2.39,4.73,98
+LS6897,LS6897,Rural,40,female,31.82634,Category 2,A bit active,No,0,Negative,8.2,68,2.77,1.64,4.93,93
+LS6797,LS6797,Rural,28,female,30.27275,Category 1,A bit active,No,0,Negative,9.78,88,4.98,2.62,5.1,115
+LS6721,LS6721,Rural,47,male,21.41582,Category 2,Not active,No,Yes,Negative,3.95,73,5.57,3.92,4.48,115.5
+LS6870,LS6870,Rural,40,male,25.04215,Category 3,Very active,No,0,Positive,4.97,86.5,4.35,2.65,5.18,123
+LS6803,LS6803,Rural,47,female,19.97214,Category 3,Very active,Yes,Yes,Negative,3.62,75,5.76,3.21,4.78,115
+LS7020,LS7020,Rural,15,female,19.92577,Category 3,A bit active,No,0,Negative,14.98,68.5,3.58,2.34,5.84,115
+LS6727,LS6727,Rural,53,male,23.56129,Category 2,Not active,No,Yes,Negative,2.91,87,3.95,2.44,4.51,127.5
+LS6960,LS6960,Rural,13,male,17.97084,Category 1,Very active,No,0,Positive,4.48,76.5,4.9,3.62,5.39,106
+LS6901,LS6901,Rural,29,male,22.2857,Category 2,A bit active,Yes,Yes,Positive,2.06,65.5,3.09,0.99,4.47,113.5
+LS6835,LS6835,Rural,14,female,22.13291,Category 1,Not active,No,0,Negative,19.98,74,3.2,1.63,5.01,113.5
+LS7033,LS7033,Rural,15,female,20.52226,Category 1,Not active,No,0,Negative,10.9,68,4.75,3.47,4.73,108
+LS6904,LS6904,Rural,15,female,NA,Category 1,Very active,No,0,Negative,5.54,64.5,2.15,1.15,4.24,106.5
+LS6744,LS6744,Rural,14,male,20.26089,Category 2,Not active,No,0,Positive,7.3,77.5,2.45,0.97,3.42,110
+LS7108,LS7108,Rural,23,female,28.88555,Category 2,A bit active,No,0,Positive,8.51,70,1.96,0.44,5.2,107.5
+LS6684,LS6684,Rural,29,male,24.4116,Category 3,A bit active,No,0,Negative,9.78,76,4.72,3.18,4.74,129.5
+LS6655,LS6655,Rural,23,male,24.09108,Category 2,A bit active,No,0,Positive,2.17,63.5,4.98,3.32,4.32,112.5
+LS7022,LS7022,Rural,29,female,NA,Category 1,Very active,No,0,Negative,8.56,69,3.83,2.14,5.01,102
+LS6981,LS6981,Rural,25,female,24.38653,Category 2,Very active,No,0,Negative,7.3,80,5.11,3.63,5.19,108
+LS6925,LS6925,Rural,17,female,20.46351,Category 1,Very active,No,0,Negative,25.45,69.5,3.93,2.26,5.75,93.5
+LS6883,LS6883,Rural,13,female,20.13318,Category 1,Not active,No,0,Negative,26.83,59.5,2.58,1.23,5.56,88.5
+LS6839,LS6839,Rural,36,male,19.66755,Category 2,A bit active,No,Yes,Negative,3.96,75.5,3.86,2.05,4.36,118
+LS6756,LS6756,Rural,10,male,13.76207,Category 1,,,,Positive,4.17,73.5,2.89,1.29,4.67,118
+LS7316,LS7316,Rural,40,male,20.07397,Category 2,Very active,Yes,0,Positive,2.51,77.5,3.2,1.94,4.53,115
+LS7312,LS7312,Rural,16,female,23.99021,Category 1,A bit active,No,0,Positive,13.12,75.5,4.94,3.3,4.89,115.5
+USS0121,USS0121,Urban,61,female,18.59375,Category 1,Not active,No,0,Negative,3.63,82,3.42,1.93,5.31,136.5
+USS0124,USS0124,Urban,18,female,32.7551,Category 1,Not active,No,0,Negative,1.37,80.5,3.34,1.92,4.19,106
+USS0125,USS0125,Urban,29,female,42.85499,Category 1,Not active,No,0,Negative,10.86,71,3.85,2.5,5.49,85.5
+LS7035,LS7035,Rural,17,female,24.14305,Category 1,A bit active,No,0,Negative,19.22,79.5,4.05,2.67,4.71,97
+USS0203,USS0203,Urban,48,female,38.9543,Category 3,Not active,No,Yes,Negative,6.68,69,5.57,3.77,5.94,105.5
+USS0211,USS0211,Urban,25,female,24.75762,Category 3,Not active,No,0,Negative,2.69,71.5,4.55,2.99,4.29,112
+USS0345,USS0345,Urban,15,male,17.68023,Category 1,Not active,No,0,Positive,5.08,63.5,4.51,2.42,4.28,103.5
+USS0454,USS0454,Urban,16,male,16.71837,Category 1,Not active,No,0,Negative,6.53,49,2,0.59,4.9,89
+USS0461,USS0461,Urban,13,male,15.28889,Category 1,A bit active,No,0,Positive,3.22,69,3.53,2.55,4.5,105.5
+USS0601,USS0601,Urban,36,female,32.75187,Category 3,Not active,No,0,Positive,8.63,71,5.25,3.36,4.4,103.5
+USS0972,USS0972,Urban,50,male,22.65361,Category 3,Not active,Yes,Yes,Positive,2.6,87.5,4.79,2.5,4.44,136.5
+LS7061,LS7061,Rural,39,male,22.85696,Category 2,Very active,No,Yes,Positive,4.08,91.5,5.12,3.43,4.17,124
+LS7137,LS7137,Rural,42,male,26.93016,Category 2,Very active,No,Yes,Positive,21.54,97,6.07,4.52,5.8,140
+LS7447,LS7447,Rural,26,male,22.60767,Category 3,Not active,No,Yes,Positive,7.85,62.5,2.89,1.77,4.8,99.5
+LS7257,LS7257,Rural,12,male,17.11998,Category 1,Very active,No,0,Positive,4.78,63.5,2.9,1.69,5.41,95
+LS7211,LS7211,Rural,37,female,24.22766,Category 3,Not active,No,0,Negative,5.77,64.5,4.79,2.04,4.34,103.5
+LS7141,LS7141,Rural,20,female,NA,Category 2,Not active,No,0,Negative,6.01,56.5,4.77,2.63,5.2,97
+LS7533,LS7533,Rural,26,male,23.62257,Category 2,A bit active,No,Yes,Positive,6.51,70,4.86,3.42,4.81,121
+LS7454,LS7454,Rural,45,male,17.37008,Category 2,A bit active,Yes,Yes,Positive,5.67,73.5,4.1,2.46,4.8,107.5
+LS6735,LS6735,Rural,20,male,22.02411,Category 2,Very active,No,0,Positive,6.37,68.5,5.41,3.98,4.62,113.5
+LS7217,LS7217,Rural,42,male,21.08358,Category 2,Not active,No,0,Positive,3.01,74,3.4,1.69,4.27,115.5
+LS7748,LS7748,Rural,32,female,22.4448,Category 1,Not active,No,Yes,Negative,6.84,76,4.25,3.22,4.4,99
+LS7538,LS7538,Rural,52,male,20.35002,Category 2,A bit active,Yes,Yes,Positive,1.15,81.5,3.83,2.39,4.07,118.5
+LS7459,LS7459,Rural,10,male,16.4829,Category 1,Not active,No,0,Positive,7.87,69,4.76,2.97,4.7,99.5
+LS7391,LS7391,Rural,23,female,19.38583,Category 2,Very active,No,Yes,Positive,9.52,76,3.8,1.73,4.45,107
+LS7268,LS7268,Rural,15,female,16.66026,Category 1,Very active,No,0,Positive,10.33,72.5,4.5,1.05,4.58,106
+LS7164,LS7164,Rural,14,female,19.93576,Category 1,Very active,No,0,Positive,16.02,69.5,3.8,2.47,5.06,111.5
+LS7759,LS7759,Rural,28,female,22.72936,Category 1,A bit active,No,Yes,Negative,7.3,77.5,3.99,2.3,4.6,114
+LS7400,LS7400,Rural,55,male,25.35206,Category 2,Very active,No,0,Positive,14.82,89,4.49,3.17,5.9,140.5
+LS7771,LS7771,Rural,26,female,NA,Category 2,Not active,No,0,Negative,5.25,70.5,7.02,4.58,3.8,103
+LS6764,LS6764,Rural,19,female,22.4137,Category 1,A bit active,No,0,Positive,10.72,67.5,4.15,2.91,4.63,106
+LS7681,LS7681,Rural,10,female,14.15378,Category 1,,,,Negative,10.57,62.5,5.98,4.15,4.92,86.5
+LS7571,LS7571,Rural,30,male,24.67508,Category 2,A bit active,No,Yes,Positive,23.7,83,5.95,4.41,5.84,126
+LS7480,LS7480,Rural,47,female,33.85805,Category 3,Very active,Yes,Yes,Positive,21.29,117,5.08,3.49,5.95,158
+LS7281,LS7281,Rural,38,male,22.96838,Category 2,Very active,No,Yes,Positive,6.19,76.5,3.1,1.06,4.31,110.5
+LS7732,LS7732,Rural,41,male,23.36872,Category 2,Not active,Yes,Yes,Positive,6.15,79,4.19,2.01,4.76,107
+LS7683,LS7683,Rural,28,male,22.13674,Category 2,Not active,No,0,Positive,4.21,66,4.31,2.97,4.57,106
+LS7785,LS7785,Rural,55,male,20.25438,Category 2,Very active,Yes,0,Positive,3.84,75.5,4.03,1.99,3.9,120.5
+LS7684,LS7684,Rural,45,male,20.27519,Category 2,A bit active,Yes,0,Positive,4.44,85,4.07,2.64,5.01,122
+LS7489,LS7489,Rural,32,male,26.81017,Category 2,Not active,No,Yes,Positive,9.13,79,4.18,2.68,4.57,129
+LS7240,LS7240,Rural,10,female,18.48124,Category 1,,,,Positive,4.67,78,4,1.26,4.78,100
+LS6814,LS6814,Rural,20,male,25.67452,Category 1,Not active,No,0,Positive,11.02,67.5,7.21,5.02,4.93,102.5
+LS7515,LS7515,Rural,27,male,23.2815,Category 2,Very active,No,0,Positive,3.03,73,4.26,2.43,5.03,116
+LS7799,LS7799,Rural,40,male,20.96389,Category 2,Very active,Yes,Yes,Positive,0.699,83,4.51,2.81,4.4,133
+LS7310,LS7310,Rural,25,female,25.26415,Category 3,A bit active,Yes,Yes,Positive,3.2,62,4.7,1.73,4.16,96.5
+LS7598,LS7598,Rural,16,male,19.5963,Category 2,Not active,No,0,Positive,8.26,65.5,5.15,3.61,4.54,100.5
+LS7521,LS7521,Rural,30,male,20.74277,Category 2,A bit active,Yes,0,Positive,3.63,70,3.91,1.15,4.94,104
+LS7432,LS7432,Rural,40,male,25.01225,Category 2,Not active,Yes,Yes,Positive,3.01,77,4.08,2.13,4.3,119
+LS7376,LS7376,Rural,47,male,21.52641,Category 2,Not active,Yes,0,Positive,4.02,81.5,4.42,2.84,5.33,114.5
+LS7317,LS7317,Rural,42,female,33.39518,Category 2,Very active,No,0,Positive,9,83,5.32,4,5.56,111.5
+LS7251,LS7251,Rural,14,female,19.18871,Category 1,Not active,No,0,Negative,8.57,81,4.3,1.28,4.61,102
+LS7810,LS7810,Rural,21,female,26.52803,Category 1,Very active,No,Yes,Negative,18.79,89.5,4,2.21,5.9,130
+LS6850,LS6850,Rural,35,male,27.93288,Category 2,Very active,No,Yes,Positive,0.722,81,7.28,4.64,4,135
+LS7811,LS7811,Rural,26,male,20.53827,Category 1,Not active,No,Yes,Positive,3.94,80.5,4,0.98,3.9,111.5
+LS7822,LS7822,Rural,29,male,23.04167,Category 2,Not active,No,0,Positive,3.29,76.5,4.22,2.45,4.7,117.5
+LS7829,LS7829,Rural,49,male,21.08536,Category 2,A bit active,Yes,Yes,Negative,2.5,99,6.05,4.19,5.1,133
+LS7842,LS7842,Rural,27,female,20.72961,Category 2,Not active,No,0,Negative,6.11,83.5,2.79,1.72,4.8,111.5
+LS7860,LS7860,Rural,25,female,19.14063,Category 3,A bit active,No,0,Negative,5.75,69,4.18,2.66,4.1,111
+LS7863,LS7863,Rural,30,male,19.3634,Category 2,Not active,Yes,Yes,Positive,3.42,64.5,3.99,2.36,4.3,112
+LS7866,LS7866,Rural,30,female,25.50301,Category 1,A bit active,No,0,Positive,2.84,76,3.24,1.99,4.2,108.5
+LS7948,LS7948,Rural,19,male,20.69046,Category 3,A bit active,No,0,Negative,11.39,75.5,3.96,2.46,5,119.5
+LS7971,LS7971,Rural,46,male,19.04752,Category 2,Very active,Yes,Yes,Positive,2.08,75,5.78,2.64,4.8,111.5
+LS7982,LS7982,Rural,26,male,23.43291,Category 2,Not active,No,0,Positive,8.85,68.5,3.73,2.37,4.2,131
+LS6866,LS6866,Rural,25,female,19.86228,Category 2,Not active,No,Yes,Positive,3.64,71.5,4.61,3.15,4.69,110.5
+LS8055,LS8055,Rural,47,male,27.52977,Category 2,Not active,No,0,Positive,9.72,111.5,4.24,2.88,5,171.5
+LS8063,LS8063,Rural,12,male,18.18933,Category 1,Not active,No,0,Positive,11.14,60.5,4.15,2.45,4,108.5
+LS8072,LS8072,Rural,10,male,16.54915,Category 1,Not active,No,0,Positive,2.49,75.5,3.11,1.67,4.3,95
+LS8137,LS8137,Rural,26,male,27.65116,Category 2,Very active,Yes,Yes,Positive,12.91,88,3.06,1.86,4.23,134
+LS8324,LS8324,Rural,41,male,26.80164,Category 2,Not active,No,0,Positive,9.84,105.5,3.57,2.19,4.64,149
+LS8325,LS8325,Rural,31,female,21.32845,Category 1,Not active,No,0,Positive,10.66,74,2.9,0.94,4.25,116.5
+LS8361,LS8361,Rural,35,male,18.71329,Category 2,Not active,No,Yes,Positive,4.44,86.5,4.28,2.53,3.54,121
+LS8373,LS8373,Rural,18,male,22.0237,Category 3,Very active,No,Yes,Positive,4.06,57,4.29,2.78,4.68,115.5
+LS8399,LS8399,Rural,14,male,20.07558,Category 1,Very active,No,0,Positive,7.6,64,3.01,1.82,4.15,118.5
+LS8433,LS8433,Rural,13,female,17.75441,Category 1,Not active,No,0,Positive,5.97,61.5,4.11,2.52,5.59,102
+LS8454,LS8454,Rural,35,male,22.89718,Category 2,Not active,Yes,Yes,Positive,3.21,77,4.27,2.9,4.78,113
+LS8455,LS8455,Rural,24,female,23.00786,Category 3,Not active,No,0,Negative,10.32,84,4.75,3.41,5.53,122.5
+LS8465,LS8465,Rural,14,female,19.34984,Category 1,Not active,No,0,Positive,12.79,54,2.8,1.73,4.46,96.5
+LS8469,LS8469,Rural,14,female,16.57751,Category 1,Very active,No,0,Positive,4.83,65,2.47,1.1,4.26,93.5
+LS8470,LS8470,Rural,10,female,15.25879,Category 1,Very active,No,0,Positive,37.49,47.5,3.31,1.8,5.6,78
+LS8473,LS8473,Rural,47,male,21.52538,Category 2,Very active,No,0,Positive,2.47,72.5,4.83,3.11,4.55,114.5
+LS8475,LS8475,Rural,25,male,23.76576,Category 2,Very active,No,Yes,Positive,6.26,71.5,3.43,2.11,4.64,116.5
+LS8476,LS8476,Rural,20,female,21.99423,Category 3,Not active,No,Yes,Negative,10.12,74,3.63,1.86,4.86,125.5
+LS8513,LS8513,Rural,37,female,33.39995,Category 1,Very active,No,0,Positive,9.55,92,3.82,2.7,5.46,127.5
+LS8522,LS8522,Rural,41,female,23.4941,Category 2,Very active,No,Yes,Positive,5.92,95,4.39,2.84,5.22,137
+LS6887,LS6887,Rural,20,female,25.26368,Category 2,Very active,No,0,Positive,9.86,76,2.79,1.7,5.05,111
+LS8524,LS8524,Rural,18,female,21.39863,Category 1,Very active,No,0,Positive,15.7,67,4.56,3.29,4.33,114
+LS8547,LS8547,Rural,30,female,24.07713,Category 2,Not active,No,0,Positive,6.83,74.5,5.95,3.62,4.56,103.5
+LS8581,LS8581,Rural,14,female,21.09811,Category 1,Not active,No,0,Positive,18.59,55.5,5.08,3.88,5.94,98
+LS8640,LS8640,Rural,35,female,20.40494,Category 2,Not active,No,Yes,Negative,1.12,85,4.09,2.31,4,118
+LS8671,LS8671,Rural,20,female,20.4268,Category 3,A bit active,No,0,Positive,24.42,79.5,2.68,1.61,4.7,109
+LS8676,LS8676,Rural,27,male,21.97635,Category 2,Very active,Yes,Yes,Positive,2.45,94,3.59,1.46,5.1,153.5
+LS8697,LS8697,Rural,31,male,23.45959,Category 2,Not active,No,Yes,Positive,4.87,103,6.48,2.14,4.3,152.5
+LS8677,LS8677,Rural,28,female,21.33675,Category 1,Very active,No,Yes,Negative,8.29,73.5,4.2,3.11,4.8,118.5
+LS8698,LS8698,Rural,23,female,26.0401,Category 1,A bit active,No,0,Negative,5.09,75,6.37,4.82,4,107
